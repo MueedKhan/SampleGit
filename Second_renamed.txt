@@ -7,3 +7,5 @@ Added in gitignore
 Now changing
 
 After cached command, checking
+
+ChangeNew
