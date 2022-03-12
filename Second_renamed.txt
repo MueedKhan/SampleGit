@@ -1,0 +1,9 @@
+A new file
+
+Change done
+
+Added in gitignore
+
+Now changing
+
+After cached command, checking
